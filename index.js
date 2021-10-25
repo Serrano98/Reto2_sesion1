@@ -2,6 +2,7 @@
 
 var sumar = require('./Sumar');
 var sumar = require('./Divicion');
+const divicion = require('./Divicion');
 
 sumar(2, 4);
 divicion(20, 5);
